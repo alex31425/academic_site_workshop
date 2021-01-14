@@ -1,17 +1,17 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: Mu-Ting Huang
 locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
+logo: bio-photo.jpg # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Ted Laderas
   avatar: bio-photo.jpg
   bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  email: mhuang7447@sdsu.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
+  twitter: # laderast
   linkedin: mutinghuang
   github: alex31425
   orcid: # ID Number (ex. 0000-0000-0000-0000)
